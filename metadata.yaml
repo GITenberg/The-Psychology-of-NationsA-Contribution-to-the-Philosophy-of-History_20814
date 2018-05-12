@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9537'
     url: http://www.gutenberg.org/2009/agents/9537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20814#The-Psychology-of-NationsA-Contribution-to-the-Philosophy-of-History
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2007-03-14'
 gutenberg_type: Text
