@@ -1,0 +1,32 @@
+_repo: The-Psychology-of-NationsA-Contribution-to-the-Philosophy-of-History_20814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Partridge, G. E. (George Everett)
+    alias: Partridge, George Everett
+    birthdate: 1870
+    gutenberg_agent_id: '9537'
+    url: http://www.gutenberg.org/2009/agents/9537
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2007-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20814'
+  lccn: '19019152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Education'
+- !lcsh 'War'
+- !lcc 'D'
+title: 'The Psychology of Nations
+
+  A Contribution to the Philosophy of History'
+url: http://www.gutenberg.org/ebooks/20814
